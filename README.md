@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋<br><br>I've been rocking the Software Development Engineer in Test  world for over 7 years. From Java and Javascript to Selenium, Appium, Cypress, Postman, Katalon, Jmeter, Log4J  and Cucumber, I've danced through various testing tools. As a quick learner, I'm eager to bring my expertise in test  automation, mobile app/Web app testing, API/Database testing, and cloud tech to a new team. Let's connect and  explore how I can contribute to your success! 🚀
+Hello there! 👋<br><br>I've been rocking the Software Development Engineer in Test  world for over 7 years. From Java and Javascript to Selenium, Appium, Cypress, Postman, Katalon, Jmeter, Log4J  and Cucumber, I've danced through various testing tools. As a quick learner, I'm eager to bring my expertise in test  automation, mobile app/Web app testing, API/Database testing, and Cloud Tech to a new team. Let's connect and  explore how I can contribute to your success! 🚀
 
 
 ## 🌐 Socials:
